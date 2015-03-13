@@ -1,0 +1,19 @@
+%DE trec=>dsig(arq)
+[barra,ax,ay,nox,noy,px,py,arex,E,em,cm,d,ro,x0,xmin,xmax]=tb940;
+arq.barra=barra;
+arq.ax=ax;
+arq.ay=ay;
+arq.nox=nox;
+arq.noy=noy;
+arq.px=px;
+arq.py=py;
+arq.arex=arex;
+arq.E=E;
+arq.em=em;
+arq.cm=cm;
+arq.d=d;
+arq.ro=ro;
+arq.x0=x0;
+arq.xmin=xmin;
+arq.xmax=xmax;
+save arq960bar arq
